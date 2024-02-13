@@ -25,7 +25,7 @@ The project leverages Express server to seamlessly incorporate CRUD functionalit
 - Add a new review for a book (logged in users only)
 - Modify a book review (logged in users can modify only their own reviews)
 - Delete a book review (logged in users can delete only their own reviews)
-= (Multiple users) Access the application at the same time to view and manage different book reviews simultaneously
+- (Multiple users) Access the application at the same time to view and manage different book reviews simultaneously
 
 ### Getting Started
 
